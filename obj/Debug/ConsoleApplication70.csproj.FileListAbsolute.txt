@@ -1,0 +1,6 @@
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\bin\Debug\ConsoleApplication70.exe.config
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\bin\Debug\ConsoleApplication70.exe
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\bin\Debug\ConsoleApplication70.pdb
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\obj\Debug\ConsoleApplication70.csprojResolveAssemblyReference.cache
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\obj\Debug\ConsoleApplication70.exe
+c:\users\самандар\documents\visual studio 2012\Projects\ConsoleApplication70\ConsoleApplication70\obj\Debug\ConsoleApplication70.pdb
